@@ -1,0 +1,23 @@
+{
+  "name": "capaoirrigationapi",
+  "version": "1.0.0",
+  "description": "this will connect my irrigation system to other stuff",
+  "main": "src/index.js",
+  "scripts": {
+    "run": "node src/index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnWann/capaoIrrigationAPI.git"
+  },
+  "keywords": [
+    "irrigation"
+  ],
+  "author": "Uaná Gasparim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnWann/capaoIrrigationAPI/issues"
+  },
+  "homepage": "https://github.com/AnnWann/capaoIrrigationAPI#readme"
+}

@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/AnnWann/capaoIrrigationAPI/issues"
   },
-  "homepage": "https://github.com/AnnWann/capaoIrrigationAPI#readme"
+  "homepage": "https://github.com/AnnWann/capaoIrrigationAPI#readme",
+  "dependencies": {
+    "ewelink-api": "^3.1.1"
+  }
 }

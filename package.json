@@ -2,9 +2,10 @@
   "name": "capaoirrigationapi",
   "version": "1.0.0",
   "description": "this will connect my irrigation system to other stuff",
-  "main": "src/index.js",
+  "main": "api/index.js",
+  "type": "module",
   "scripts": {
-    "run": "node src/index.js",
+    "run": "node api/index.js",
     "test": "test"
   },
   "repository": {

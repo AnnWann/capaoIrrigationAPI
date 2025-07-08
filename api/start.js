@@ -1,4 +1,4 @@
-import { getEweLinkCredentials } from "../src/authEwelink";
+import { getEweLinkCredentials } from "../src/authEwelink.js";
 
 export default async function handler(req, res) {
   
